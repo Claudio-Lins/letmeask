@@ -52,7 +52,7 @@ export function Home() {
           src={illustrationImg}
           alt="Ilustação simbolizando perguntas e respostas"
         />
-        <strong>Crie salas de Q&A ao vivo</strong>
+        <strong>Crie salas de Q&A ao vivo!</strong>
         <p>Tire as dúvidas da sua audiência em tempo real</p>
       </aside>
       <main>
